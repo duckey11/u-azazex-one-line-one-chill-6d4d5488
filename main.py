@@ -12,7 +12,7 @@ import os
 ENTRY = (
     "Semalam aku merekam tidurku untuk membuktikan tidak ada yang masuk kamar, "
     "dan pagi ini videonya menunjukkan aku berdiri di samping tempat tidur, "
-    "menatap diriku sendiri sepanjang malam."
+    "menatap diriku sendiri tanpa pernah berkedip."
 )
 
 OUTPUT_PATH = "/output/entry.txt"
